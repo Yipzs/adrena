@@ -1,0 +1,2 @@
+# adrena
+sped discord bot
